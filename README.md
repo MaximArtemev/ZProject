@@ -1,5 +1,7 @@
 ** This is my 1st year university project **
 
-It is recomendation system based on zadolba.li site with simple GUI
+It is recomendation system based on zadolba.li site with simple GUI on python
 
-Main librares that I used is: sklearn, requests, html.parser, logging
+There isn't much ML/AI stuff here, just basic scraping, logging and collecting data.
+
+More of the archive thingy to be honest
